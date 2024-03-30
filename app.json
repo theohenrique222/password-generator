@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pro-workout",
-    "slug": "pro-workout",
+    "name": "password-generator",
+    "slug": "password-generator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
